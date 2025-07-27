@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Prajwal Umesha 👋
 
 <!--
 **prajwal-u2/prajwal-u2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Graduate Student at University of Minnesota - Twin Cities**
+**Software Engineer | Cloud Engineer Intern at IDeaS | Cloud Data Engineer at Mercedes-Benz R&D**
+
