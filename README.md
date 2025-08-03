@@ -51,17 +51,14 @@
 
 📌 **Key Projects**
 
+🔹 **AI Agent - GitHub Copilot Integration @ IDeaS**  
+➤ Designed and Developed an AI Agent in Python that integrated GitHub Copilot with internal Terraform modules using GitHub API using a custom built MCP server to generate boilerplate code, cutting manual coding time by 90%.
+
 🔹 **FASTER - LLM-Powered Data Semantic System**  
 ➤ Built an LLM system using Python and OpenAI APIs to identify column semantics and generate reusable Functional Semantic Types, reducing duplication by 40%.
 
-🔹 **Data Observability Platform @ Merecedes-Benz**  
+🔹 **Data Observability Platform @ Mercedes-Benz**  
 ➤ Delivered analytics-driven Data Observability solution aligned with Gartner's principles, standardizing data platforms and reducing MTTF with projected savings of €1.5M annually.
-
-🔹 **Distributed File System with Quorum Replication**  
-➤ Designed a fault-tolerant file system using Apache Thrift RPCs, achieving 99% availability and strong consistency across distributed replicas.
-
-🔹 **Utopia - Real-Time Analytics Pipeline**  
-➤ Developed streaming data pipeline with Kafka Streams and Apache Pinot, enabling sub-200ms OLAP queries for business intelligence.
 
 
 
