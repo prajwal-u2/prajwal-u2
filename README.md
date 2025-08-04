@@ -11,12 +11,28 @@
 - Passionate about **Distributed Systems, AI/ML, and Cloud Architecture**
 - Love building scalable systems, optimizing data pipelines, and solving complex engineering challenges
 
-🔍 **Currently Exploring:**
-- Distributed Systems and Event-Driven Architecture
+🔍 **Experienced In:**
 - AI/ML and Large Language Models
+- Data Engineering
 - Cloud-Native Development and DevOps
+- Distributed Systems and Event-Driven Architecture
 
 ---
+
+📌 **Key Projects**
+
+🔹 **AI Agent - GitHub Copilot Integration @ IDeaS**  
+➤ Designed and Developed an AI Agent in Python that integrated GitHub Copilot with internal Terraform modules using GitHub API using a custom built MCP server to generate boilerplate code, cutting manual coding time by 90%.
+
+🔹 **FASTER - LLM-Powered Data Semantic System**  
+➤ Built an LLM system using Python and OpenAI APIs to identify column semantics and generate reusable Functional Semantic Types, reducing duplication by 40%.
+
+🔹 **Data Observability Platform @ Mercedes-Benz**  
+➤ Delivered analytics-driven Data Observability solution aligned with Gartner's principles, standardizing data platforms and reducing MTTF with projected savings of €1.5M annually.
+
+
+---
+
 
 🛠 **Tech Stack**
 
@@ -46,20 +62,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Apache Thrift](https://img.shields.io/badge/Apache_Thrift-DD2200?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Pinot](https://img.shields.io/badge/Apache_Pinot-000000?style=for-the-badge&logo=apache-pinot&logoColor=white)
-
----
-
-📌 **Key Projects**
-
-🔹 **AI Agent - GitHub Copilot Integration @ IDeaS**  
-➤ Designed and Developed an AI Agent in Python that integrated GitHub Copilot with internal Terraform modules using GitHub API using a custom built MCP server to generate boilerplate code, cutting manual coding time by 90%.
-
-🔹 **FASTER - LLM-Powered Data Semantic System**  
-➤ Built an LLM system using Python and OpenAI APIs to identify column semantics and generate reusable Functional Semantic Types, reducing duplication by 40%.
-
-🔹 **Data Observability Platform @ Mercedes-Benz**  
-➤ Delivered analytics-driven Data Observability solution aligned with Gartner's principles, standardizing data platforms and reducing MTTF with projected savings of €1.5M annually.
-
 
 
 ---
