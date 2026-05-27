@@ -72,5 +72,7 @@
 
 🔗 **Get to Know More**
 - 🌐 [Portfolio](https://prajwal-umesha.vercel.app) - Check out my projects and experience!
+- 💻 [LeetCode](https://leetcode.com/u/prajwal-umesha/) - Check out my coding profile!
+
 
 ---
